@@ -13,12 +13,12 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
 <div>
 
 ## :footprints: Tecnologias em Aprendizado 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=ffffff" />
